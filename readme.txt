@@ -12,5 +12,5 @@ note to self: rmb in github/repo and gitbash
 -> git remote -v 
 -> git rm "file"
 -> git add "file in folder" 
--> git -m "commit"
+-> git commit
 -> git push -f origin main
