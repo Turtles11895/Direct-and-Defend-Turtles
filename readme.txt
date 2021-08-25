@@ -12,7 +12,9 @@ How to update: take "Save Data.dat" out of _Data folder, replace the files, and 
 
 Changelog:
 1- bug fixes, ramped up difficulty, added banners
-2-
+2- bug fixes, increased fog, fixed ciws missile targeting, added 4 new units, 
+normal maps, other changes
+
 
 
 
@@ -26,5 +28,5 @@ note to self: rmb in github/repo and gitbash
 -> git remote -v 
 -> git rm "file"
 -> git add "file in folder" 
--> git commit
+-> git commit -m "message"
 -> git push -f origin main
