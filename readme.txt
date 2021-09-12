@@ -1,5 +1,5 @@
 1. Download 7-zip if you don't have it to extract the file
-2. Download "Direct and Defend - Turtles.7z" and extract
+2. Download the release (Windows only)
 
 >How to update: take "Save Data.dat" out of _Data folder, replace the files, and put the save data back
 >If there's lag - save and load the scene to delete dead entities
