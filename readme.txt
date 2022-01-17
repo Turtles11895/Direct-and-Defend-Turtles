@@ -1,5 +1,5 @@
 1. Download 7-zip if you don't have it to extract the file
-2. Download the release (Windows only) -->
+2. Download the release    -->      -->
 
 >How to update: take "Save Data.dat" out of _Data folder, replace the files, and put the save data back
 >If there's lag - save and load the scene to delete dead entities
@@ -24,3 +24,4 @@ expensive units cost less to make up for this as well as enemies killed giving m
 5[Jan/22]- buffed protos, shaders/mats/particleSystems to make units look pretty, sfx, 
 remodeled derg and fooled around with shader, animations no longer override ik effectors (ragdoll physx
 on units with bones)
+6[Jan/22]- units are playable with right click (Mouse2)
