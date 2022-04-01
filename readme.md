@@ -37,5 +37,5 @@ Changelog:
  missiles, neatened github
  
 >Graphic:
-To be added
+![](https://github.com/Turtles11895/Direct-and-Defend-Turtles/blob/main/direct_graphic.gif)
  
