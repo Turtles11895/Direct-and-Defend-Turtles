@@ -13,7 +13,7 @@
 
 Changelog:
 
-0[[Jul/21]- base game
+0[Jul/21]- base game
 
 1[Aug/21]- bug fixes, ramped up difficulty, added banners
 
@@ -38,4 +38,7 @@ Changelog:
  
 >Graphic:
 ![](https://github.com/Turtles11895/Direct-and-Defend-Turtles/blob/main/direct_graphic.gif)
+
+Proto model:
+(https://drive.google.com/file/d/1izyiSitwUYy3_2qNuFuqw_4fSmto2R3c/view?usp=sharing)
  
