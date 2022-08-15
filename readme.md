@@ -36,9 +36,16 @@ Changelog:
 6.1[Apr/22]- fixed bug where the unit targeting angle messed up because of y-pos, ciws will always prioritize
  missiles, neatened github
  
+7[Aug/22]- added multiplayer (there might be bugs, haven't tested it thouroughly, can reset the server anytime),
+1 new unit, fixed a couple textures, a couple idle animations, added chat and stuff for multiplayer, now 10k lines
+in the main scripts
+ 
 >Graphic:
 ![](https://github.com/Turtles11895/Direct-and-Defend-Turtles/blob/main/direct_graphic.gif)
 
-Proto model:
-(https://drive.google.com/file/d/1izyiSitwUYy3_2qNuFuqw_4fSmto2R3c/view?usp=sharing)
- 
+
+
+
+
+
+
