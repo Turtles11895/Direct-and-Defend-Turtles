@@ -36,7 +36,7 @@ Changelog:
 6.1[Apr/22]- fixed bug where the unit targeting angle messed up because of y-pos, ciws will always prioritize
  missiles, neatened github
  
-7[Aug/22]- added multiplayer (there might be bugs, haven't tested it thouroughly, can reset the server anytime),
+7[Aug/22]- added multiplayer (server has to be manually started every hour so it prob not up),
 1 new unit, fixed a couple textures, a couple idle animations, added chat and stuff for multiplayer, now 10k lines
 in the main scripts
  
